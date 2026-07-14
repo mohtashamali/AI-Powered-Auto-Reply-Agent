@@ -1,0 +1,32 @@
+# Core AI
+anthropic>=0.40.0
+
+# Web scraping (Instagram, LinkedIn)
+apify-client>=1.7.0
+
+# Google / Gmail
+google-auth>=2.27.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.118.0
+
+# WhatsApp (Twilio)
+twilio>=9.0.0
+
+# Twitter/X
+tweepy>=4.14.0
+
+# Web server (for WhatsApp webhook)
+flask>=3.0.0
+
+# Scheduling
+schedule>=1.2.1
+
+# Environment
+python-dotenv>=1.0.0
+
+# Pretty terminal output
+rich>=13.7.0
+
+# Utilities
+requests>=2.31.0
