@@ -1,4 +1,4 @@
-# AI based Personal Automation Agent
+# AI-Powered Auto Reply Agent
 
 One Python agent that reads messages across Instagram, Gmail, WhatsApp, and Twitter — detects what each person wants — and replies individually, in your voice.
 
