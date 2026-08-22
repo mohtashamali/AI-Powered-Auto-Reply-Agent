@@ -1,25 +1,3 @@
-"""
-main.py — Master orchestrator.
-
-Usage:
-  python main.py                      # run all platforms
-  python main.py --platform instagram # run only Instagram
-  python main.py --platform gmail
-  python main.py --platform whatsapp
-  python main.py --platform twitter
-  python main.py --dry-run            # detect intents, generate replies, but don't send
-  python main.py --schedule           # run every N minutes in a loop
-  python main.py --dashboard          # show stats dashboard
-  python main.py --human-queue        # show messages needing human review
-
-Natural language commands also work:
-  python main.py --command "reply to all my Instagram DMs"
-  python main.py --command "clear my inbox"
-  python main.py --command "handle Twitter mentions"
-  python main.py --command "answer WhatsApp messages"
-  python main.py --command "run everything"
-"""
-
 import os
 import sys
 import argparse
